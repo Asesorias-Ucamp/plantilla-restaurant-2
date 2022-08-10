@@ -1,0 +1,27 @@
+.menu-title{
+  text-align: center;
+}
+
+body{
+  background-color: #e56e0c;
+}
+
+.menu-card{
+  background-color: #e56e0c;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  width: 150px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.tarjetas-menu{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
